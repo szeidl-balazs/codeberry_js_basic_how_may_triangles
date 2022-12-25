@@ -31,7 +31,7 @@ function pageLoaded () {
 
             peakX = canvas.width;
             peakY = canvas.height;
-            
+
         }
 
         context.beginPath();
